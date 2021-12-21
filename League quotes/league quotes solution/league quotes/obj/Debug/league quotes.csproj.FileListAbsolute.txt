@@ -1,0 +1,11 @@
+D:\proiecte info\League quotes\league quotes solution\league quotes\bin\Debug\league quotes.exe.config
+D:\proiecte info\League quotes\league quotes solution\league quotes\bin\Debug\league quotes.exe
+D:\proiecte info\League quotes\league quotes solution\league quotes\bin\Debug\league quotes.pdb
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league quotes.csprojAssemblyReference.cache
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league_quotes.Form1.resources
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league_quotes.Properties.Resources.resources
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league quotes.csproj.GenerateResource.cache
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league quotes.csproj.CoreCompileInputs.cache
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league quotes.exe
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league quotes.pdb
+D:\proiecte info\League quotes\league quotes solution\league quotes\obj\Debug\league_quotes.Form2.resources
