@@ -1,3 +1,3 @@
 # League_Quotes
-Search for a word/words in some of League of Legends` champion quotes
-Pentru a porni programul intram in bin si pornim league quotes.exe
+Search for a word/words in some of League of Legends' champion quotes
+The project is not finished.
